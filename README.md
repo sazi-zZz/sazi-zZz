@@ -1,5 +1,4 @@
 ![anteiku](img/githubBanner.png)
-## Connect:
 
 [X](https://x.com/sazi_zZz) 
 
